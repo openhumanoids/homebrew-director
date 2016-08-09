@@ -29,7 +29,7 @@ class Vtk5 < Formula
   revision 2
 
   bottle do
-    sha256 "6163db8061b417758f171492118dfc9f56e88db8bb6d0da9422a02ac10fac1c1" => :el_capitan
+    sha256 "9135f8a766fa1f0aa2a9ce6f8060a3194a641a7e1d52f72f0fc4dfafb70a8015" => :el_capitan
     sha256 "ae0df1d384aa6fb145fe264d19eb3021e5880a697652dd70c0d4bf405a1c04ae" => :yosemite
     sha256 "443c65770a671b09ca7d31ea22ab5907c857d467c054f08d0e6ea0a7a9db9f17" => :mavericks
   end
